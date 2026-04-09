@@ -1,0 +1,14 @@
+# Variables de entorno con credenciales
+.env
+
+# Datos persistentes (volúmenes)
+data/
+
+# Backups
+backups/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
